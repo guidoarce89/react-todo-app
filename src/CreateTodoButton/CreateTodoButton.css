@@ -1,0 +1,17 @@
+.CreateTodoButton {
+  width: 64px;
+  height: 64px;
+  border: none;
+  border-radius: 50%;
+  background-color: #61DAFA;
+  box-shadow: 0px 5px 25px rgba(97, 218, 250, 0.5);
+  color: #FAFAFA;
+  font-size: 64px;
+  font-weight: bold;
+  line-height: 64px;
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  cursor: pointer;
+  z-index: 1;
+}
